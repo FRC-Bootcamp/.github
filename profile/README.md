@@ -15,11 +15,6 @@ Version Control
 - Fixing a Mistate
 - Forking a Project
 
-VSCode
-- Programming in VS Code
-- Debugging in VS Code
-- Version Control in VS Code
-
 Java Programming
 - Basics
 - Control Flow
@@ -33,6 +28,7 @@ FRC Programming
 - Create a Robot Code Repo
 - FRC Templates / Program Structure Types
 - Control Motors, Actuators, and Electricity
+- Debugging Java
 - Polling Sensors
 - Polling Controllers
 - Put the Code on the Robot
